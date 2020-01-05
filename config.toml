@@ -1,0 +1,4 @@
+baseURL = "https://yaoh.me/"
+languageCode = "zh-cn"
+title = "My blog site"
+theme = "ananke"
